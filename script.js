@@ -1,5 +1,6 @@
 
-ETTS_data = [{'text': 'No, I burst the balloon!',
+ETTS_data = [
+  {'text': 'No, I burst the balloon!',
   'sid': '1',
   'emotion': 'Sad',
   'origin_audio_path': './static/demo_audio/origin/0011_001166.wav',
