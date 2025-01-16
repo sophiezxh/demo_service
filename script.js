@@ -54,12 +54,6 @@ ETTS_data = [
   'vits_label_path': './static/demo_audio/vits_label/0017_000263.wav',
   'mmtts_vits_path': './static/demo_audio/mmtts_vits/0017_000263.wav'},
    
- {'text': 'Because he was a man with infinite resource and sagacity.',
-  'emotion': 'Neutral',
-  'origin_audio_path': './static/demo_audio/origin/0017_000274.wav',
-  'vits_label_path': './static/demo_audio/vits_label/0017_000274.wav',
-  'mmtts_vits_path': './static/demo_audio/mmtts_vits/0017_000274.wav'},
- 
  {'text': 'Enough,you a foolish chatter.',
   'emotion': 'Neutral',
   'origin_audio_path': './static/demo_audio/origin/0018_000341.wav',
